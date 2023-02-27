@@ -5,9 +5,9 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
  <br>
- <details><summary> <p4> **Table of content** </p4> </summary>
+ <details><summary> <p4> Table of content </p4> </summary>
            <p> 1.Aim of the project</p>
-           <p> 2.Project Enviroment</p> 
+           <p> 2.Why Java!</p> 
            <p> 3.Steps for TCP socket programming connection</p>
            <p> 4.Steps for setting up the network</p>
            <p> 5.Application outputs </p>
@@ -18,4 +18,11 @@
 
 > ## Aim of the project 
 **The aim of this project is to develop a simple TCP-based client server application**
+
+> ## Project Enviroment
+**why we chose to program in Java Language!**
+*There are several reasons why we though Java was the suitable choice to use it as programming language:
+[^1] lkhjgvhbn
+
+
  
