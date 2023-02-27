@@ -16,4 +16,5 @@
 <br>
 <br>
 
-> ## develop a simple TCP-based client server application
+> ## Aim of the project 
+The aim of this project is to develop a simple TCP-based client server application
