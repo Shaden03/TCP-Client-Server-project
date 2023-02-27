@@ -5,7 +5,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
  <br>
- <details><summary> <p4> Table of content </p4> </summary>
+ <details><summary> <p4> **Table of content** </p4> </summary>
            <p> 1.Aim of the project</p>
            <p> 2.Project Enviroment</p> 
            <p> 3.Steps for TCP socket programming connection</p>
