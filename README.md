@@ -54,7 +54,7 @@
 
 
 **4- accept connection :**
-- on server side [accept()] used from the ServerSocket class so the incoming client connection be accepted, it will return socket object that will be used for communication with the client
+- on server side [accept()] used from the ServerSocket class so the incoming client connection be accepted, it will return socket object that will be used for communication with the client<br>
 <img width="497" alt="Screenshot 1444-08-09 at 7 56 05 PM" src="https://user-images.githubusercontent.com/116809090/222208519-f5ec10a5-079d-4e86-9087-7931d89188b3.png"><br>
 
 
