@@ -44,8 +44,18 @@
 
 > ## Steps for TCP socket programming connection
 
-1- The socket for the client will be created from socket class in java.net: 2- pass the server's id address and port number in client class:
-3- The Socket for the server will be created using serverSocket from java.net and pass the port number as an argument:
-||**4- accept connection :**
-- on server side [accept()] used from the ServerSocket class so the incoming client connection be accepted, it will return socket object that will be used for communication with the client
-5- these are methods of the socket the client will use to get the output and input streams of the socket, the server will also use it to recieve and send to the client
+1- The socket for the client will be created from socket class in java.net:<br>
+<img width="296" alt="Screenshot 1444-08-09 at 7 54 04 PM" src="https://user-images.githubusercontent.com/116809090/222208095-3da88263-04e8-45fa-9d31-3bd810c5c9c0.png">
+2- pass the server's id address and port number in client class:<br>
+<img width="344" alt="Screenshot 1444-08-09 at 7 55 29 PM" src="https://user-images.githubusercontent.com/116809090/222208395-6c61895c-d164-4937-a39a-085814a8883f.png">
+
+3- The Socket for the server will be created using serverSocket from java.net and pass the port number as an argument:<br><img width="532" alt="Screenshot 1444-08-09 at 7 55 45 PM" src="https://user-images.githubusercontent.com/116809090/222208447-bb4bcacd-e8bc-4e2e-a5e7-6554a1071599.png">
+
+
+**4- accept connection :**
+- on server side [accept()] used from the ServerSocket class so the incoming client connection be accepted, it will return socket object that will be used for communication with the client<br>
+<img width="497" alt="Screenshot 1444-08-09 at 7 56 05 PM" src="https://user-images.githubusercontent.com/116809090/222208519-f5ec10a5-079d-4e86-9087-7931d89188b3.png">
+
+
+5- these are methods of the socket the client will use to get the output and input streams of the socket, the server will also use it to recieve and send to the client<br>
+<img width="540" alt="Screenshot 1444-08-09 at 7 56 25 PM" src="https://user-images.githubusercontent.com/116809090/222208606-c5a5e9c2-4aa5-44ec-b540-6011385cecac.png">
