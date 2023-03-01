@@ -19,6 +19,17 @@
 
 > ## Aim of the project 
 **The aim of this project is to develop a simple TCP-based client server application**
+- TCP client/server connection will communicate over the network and exchange data<br>
+- The server will start in passive mode listening for a transmission from the client<br>
+- The client will then start and contact the server (on a given IP address and port number)<br>
+- The user of the client application types in a word that will be sent to the server;<br>
+-  the server will send back a copy of the word.<br>
+- If the server is down then the client must display an error message.<br>
+- If server is running, then the client will ask the user to select one of the options:<br>
+1) open mode<br>
+2) secure mode<br>
+3) quit application<br>
+In the open mode, the word is sent to the server in clear text. On the other hand, in secure mode, the word is encrypted using a shared encryption key.<br>
 
 > ## Project Enviroment
 **why we chose to program in Java Language!**
@@ -70,7 +81,12 @@
 
 8- Used [I0Exception] and [uknownHostException] for Handling any error<br>
 <img width="488" alt="Screenshot 1444-08-09 at 8 02 22 PM" src="https://user-images.githubusercontent.com/116809090/222210067-0ef5cc45-c34c-4f7a-a1b7-e2640e1fc08a.png"><br>
-
-
-
 <br>
+> ## Steps for setting up the network
+
+1. Connect Mac(Server) device to a network<br>
+2. Copy IP address on Network (Server)  , so that both ( Server)and (client ) have the same network.<br>
+3. Make sure that you Connect the  [client] with the same network as [Server].<br>
+4. Paste the IP address that you copied from Server device [Mac] in the client [Window]code so you can activate the connection between the two devices , Successfully the connection had done.
+
+
