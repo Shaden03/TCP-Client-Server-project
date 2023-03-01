@@ -42,5 +42,10 @@
 <br><br>
 
 
+> ## Steps for TCP socket programming connection
 
- 
+1- The socket for the client will be created from socket class in java.net: 2- pass the server's id address and port number in client class:
+3- The Socket for the server will be created using serverSocket from java.net and pass the port number as an argument:
+||**4- accept connection :**
+- on server side [accept()] used from the ServerSocket class so the incoming client connection be accepted, it will return socket object that will be used for communication with the client
+5- these are methods of the socket the client will use to get the output and input streams of the socket, the server will also use it to recieve and send to the client
