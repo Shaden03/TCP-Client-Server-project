@@ -26,8 +26,9 @@
 <br>
 *There are several reasons why we though Java was the suitable choice to use it as programming language:*
 <br>
-1.Java is a platform independent language, which means that there same code run on any platform such as "Windows, Mac, or linux" without modification, which can make java ideal for our project that need to run on different platform.<br>
-2.Java is an object-oriented programming language, which provides a well- structured way to model real-world problems, which make it easier to develop complex applications that are easy to maintain and extend.<br>
+<br>
+1.Java is a platform independent language, which means that there same code run on any platform such as "Windows, Mac, or linux" without modification, which can make java ideal for our project that need to run on different platform.<br> <br>
+2.Java is an object-oriented programming language, which provides a well- structured way to model real-world problems, which make it easier to develop complex applications that are easy to maintain and extend.<br> <br>
 3.The main reason why we chose Java as a programming language is because it has a large community of developers, which made it easy for us to find resources and support for developing this project, java also has plenty of libraries and frameworks, which helped us to speed up the development process.
 <br>
 <br>
