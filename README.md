@@ -22,7 +22,7 @@
 > ## Project Enviroment
 **why we chose to program in Java Language!**
 <br>
-*There are several reasons why we though Java was the suitable choice to use it as programming language:
+*There are several reasons why we though Java was the suitable choice to use it as programming language:*
 <br>
 [^1] lkhjgvhbn
 
