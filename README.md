@@ -34,11 +34,11 @@
 <br>
 **We needed to import some of java libraries for the following purposes:**
 <br>
-[java.io.*] The input/output functionality needed to read and write data to and from the socket is provided by this library.
-[java.net.*] The classes and interfaces required to operate with network communication, including sockets, are provided by this library. [java.util.Scanner] This library offers a practical method of reading user input.
-[javax.crypto.* ] The classes and interfaces required for data encryption and decryption are provided by this library.
+[java.io.*] The input/output functionality needed to read and write data to and from the socket is provided by this library.<br><br>
+[java.net.*] The classes and interfaces required to operate with network communication, including sockets, are provided by this library.<br><br> [java.util.Scanner] This library offers a practical method of reading user input.<br><br>
+[javax.crypto.* ] The classes and interfaces required for data encryption and decryption are provided by this library.<br><br>
 [java.security.*] This library offers classes and interfaces for security- related functions, such as support for creating and managing encryption and decryption keys.
-
+<br><br>
 
 
 
