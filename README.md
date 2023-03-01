@@ -30,7 +30,8 @@
 2) secure mode<br>
 3) quit application<br>
 In the open mode, the word is sent to the server in clear text. On the other hand, in secure mode, the word is encrypted using a shared encryption key.<br>
-
+<br>
+<br>
 > ## Project Enviroment
 **why we chose to program in Java Language!**
 <br>
@@ -87,6 +88,16 @@ In the open mode, the word is sent to the server in clear text. On the other han
 1. Connect Mac(Server) device to a network<br>
 2. Copy IP address on Network (Server)  , so that both ( Server)and (client ) have the same network.<br>
 3. Make sure that you Connect the  [client] with the same network as [Server].<br>
-4. Paste the IP address that you copied from Server device [Mac] in the client [Window]code so you can activate the connection between the two devices , Successfully the connection had done.
+4. Paste the IP address that you copied from Server device [Mac] in the client [Window]code so you can activate the connection between the two devices , Successfully the connection had done.<br>
+<br>
+<br>
 
+> ## Application outputs
+In the second option which is the [Secure mode] the client will send a message <br>
+<img width="287" alt="Screenshot 1444-08-09 at 8 19 09 PM" src="https://user-images.githubusercontent.com/116809090/222214199-681fe3e4-26fa-479f-8a89-13f52cc237bb.png">
+<br>
+The second message received in the server from the client is encrypted<br>
+<img width="326" alt="Screenshot 1444-08-09 at 8 19 32 PM" src="https://user-images.githubusercontent.com/116809090/222214297-03c70734-f2fd-4a6d-8ab8-ec3854d8ac10.png">
+<br>
+<br>
 
