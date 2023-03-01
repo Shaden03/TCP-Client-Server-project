@@ -60,6 +60,17 @@
 
 
 5- these are methods of the socket the client will use to get the output and input streams of the socket, the server will also use it to recieve and send to the client<br>
-<img width="540" alt="Screenshot 1444-08-09 at 7 56 25 PM" src="https://user-images.githubusercontent.com/116809090/222208606-c5a5e9c2-4aa5-44ec-b540-6011385cecac.png">
-<br>
+<img width="540" alt="Screenshot 1444-08-09 at 7 56 25 PM" src="https://user-images.githubusercontent.com/116809090/222208606-c5a5e9c2-4aa5-44ec-b540-6011385cecac.png"><br>
+
+6- as It mentioned in the step 4 the server will use the streams to receive and send data to the client using [Write()] and [read()] of the outputstream( ) and inputstream( ) "used for communication between client and server"<br>
+<img width="599" alt="Screenshot 1444-08-09 at 8 01 35 PM" src="https://user-images.githubusercontent.com/116809090/222209890-9077a463-b0fc-4d78-8e40-0d901ecb9cde.png"><br>
+
+7- close the Socket when the communication is done by using Close()<br>
+<img width="436" alt="Screenshot 1444-08-09 at 8 02 05 PM" src="https://user-images.githubusercontent.com/116809090/222209992-2eaa8c05-72f1-47d3-8b12-4e1d7d726716.png"><br>
+
+8- Used [I0Exception] and [uknownHostException] for Handling any error<br>
+<img width="488" alt="Screenshot 1444-08-09 at 8 02 22 PM" src="https://user-images.githubusercontent.com/116809090/222210067-0ef5cc45-c34c-4f7a-a1b7-e2640e1fc08a.png"><br>
+
+
+
 <br>
