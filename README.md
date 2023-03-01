@@ -8,10 +8,11 @@
  <details><summary> <p4> Table of content </p4> </summary>
            <p> 1.Aim of the project</p>
            <p> 2.Why Java!</p> 
-           <p> 3.Steps for TCP socket programming connection</p>
-           <p> 4.Steps for setting up the network</p>
-           <p> 5.Application outputs </p>
-           <p> 6.Developers Team </p> </details>
+           <p> 3.Java libraries</p> 
+           <p> 4.Steps for TCP socket programming connection</p>
+           <p> 5.Steps for setting up the network</p>
+           <p> 6.Application outputs </p>
+           <p> 7.Developers Team </p> </details>
  
 <br>
 <br>
@@ -22,9 +23,20 @@
 > ## Project Enviroment
 **why we chose to program in Java Language!**
 <br>
+<br>
 *There are several reasons why we though Java was the suitable choice to use it as programming language:*
 <br>
-[^1] lkhjgvhbn
+1.Java is a platform independent language, which means that there same code run on any platform such as "Windows, Mac, or linux" without modification, which can make java ideal for our project that need to run on different platform.
+2.Java is an object-oriented programming language, which provides a well- structured way to model real-world problems, which make it easier to develop complex applications that are easy to maintain and extend.
+3.The main reason why we chose Java as a programming language is because it has a large community of developers, which made it easy for us to find resources and support for developing this project, java also has plenty of libraries and frameworks, which helped us to speed up the development process.
+<br>
+<br>
+We needed to import some of java libraries for the following purposes: [java.io.*] The input/output functionality needed to read and write data to and from the socket is provided by this library.
+[java.net.*] The classes and interfaces required to operate with network communication, including sockets, are provided by this library. [java.util.Scanner] This library offers a practical method of reading user input.
+[javax.crypto.* ] The classes and interfaces required for data encryption and decryption are provided by this library.
+[java.security.*] This library offers classes and interfaces for security- related functions, such as support for creating and managing encryption and decryption keys.
+
+
 
 
  
